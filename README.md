@@ -1,3 +1,3 @@
-GITHUB LINK =https://github.com/Ayushgreat/-Student-Registration-System.git
+**GITHUB LINK =https://github.com/Ayushgreat/-Student-Registration-System.git
 
-Student-Registration-System
+**Student-Registration-System
